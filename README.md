@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 💻 Here is my personal web: [nailongnishui.ccwu.cc](myweb)
-- 💬 How to reach me: [3287390083@qq.com](email)
+- 💻 Here is my personal web: [nailongnishui.ccwu.cc](https://nailongnishui.ccwu.cc)
+- 💬 How to reach me: [3287390083@qq.com](mailto:3287390083@qq.com)
 <!--
 **zhujunkui1-del/zhujunkui1-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
